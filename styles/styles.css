@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */ 
+html{font-size:20px/*px(pixel)像素*/;
+	font-family/*字型名稱*/:Joti One,serif
+    ;background-color:antiquewhite;
+}
+h1{font-size:60px;
+	text-align/*文字對齊*/:center;
+	margin:20px 0 0 0;
+	color:cornflowerblue;
+	text-shadow:3px/*水平*/ 3px/*垂直*/ 2px/*模糊程度*/ black
+}
+p,li{font-size:30px;
+	line-height/*行距*/:1;
+	letter-spacing/*字距*/:10px
+}
+body{width/*寬度*/:1000px;padding/*border內*/:20px/*上邊*/ 20px/*右邊*/ 20px/*下邊*/ 20px/*左邊*/;
+	margin/*頁面和padding的邊距*/:0 auto 100px;
+	border/*邊線*/:50px solid/*實線*/ #8B0000;
+	background-color:blueviolet;
+}
+img{margin:0 auto;
+	display:block
+}
+p1{font-size:30px;
+	text-align:center;
+	display:block
+}
